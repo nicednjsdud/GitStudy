@@ -1,2 +1,3 @@
-# GitStudy
-test reop for github 
+# Git Study
+
+## 깃 관련 공부용
